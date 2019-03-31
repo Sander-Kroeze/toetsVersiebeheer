@@ -1,0 +1,36 @@
+1. git status
+2. git init
+3. git remote add origin https://github.com/Sander-Kroeze/toetsVersiebeheer.git
+4. git status
+5. git add index.html
+6. git status
+7. git commit -m "index pagina toegevoegd"
+8. git push -u origin master
+9. git status
+10. git add index.html
+11. git status
+12. git commit -m "citaat toegevoegd"
+13. git push origin master
+14. git branch zandbak
+15. git checkout zandbak
+16. git status
+17. git add index.html rdj.png
+18. git status
+19. git commit -m "foto toegevoegd"
+20. git push origin zandbak
+21. git status
+22. git checkout master
+23. git add index.html
+24. git status
+25. git commit -m "h1 met citaat van de dag toegevoegd"
+26. git push origin master
+27. git status
+28. git rebase zandbak
+29. git git pull
+30. git push origin master
+
+
+
+
+
+
